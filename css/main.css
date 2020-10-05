@@ -1,0 +1,6 @@
+.bg {
+    height: 500px;
+    background-size: auto;
+    background-image: url(/image/bg.img);
+    background-repeat: no-repeat;
+}
