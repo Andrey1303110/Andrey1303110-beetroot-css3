@@ -38,10 +38,8 @@
 #downblock {
     display: flex;
     text-align: center;
-}
-
-section {
     height: 390px;
+    background-color: rgba(255, 255, 255, 0.415);
 }
 
 .img1, .img2, .img3, .img4 {
@@ -78,7 +76,8 @@ section {
 .name {
     font-size: 1.3em;
     padding-bottom: 35px;
-    height: 25px;
+    height: auto;
+    box-sizing: inherit;
 }
 
 .text2 {
@@ -116,3 +115,4 @@ section:hover {
     background-repeat: no-repeat;
     background-position: center;
 }
+
