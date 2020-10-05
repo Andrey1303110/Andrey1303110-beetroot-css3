@@ -2,7 +2,7 @@
     height: 840px;
     width: 940px;
     background-size: cover;
-    background-image: url(/image/bg.jpg);
+    background-image: url(https://andrey1303110.github.io/beetroot-css3/image/bg.jpg);
     background-repeat: no-repeat;
     margin: 0 auto;
 }
@@ -50,25 +50,25 @@
 }
 
 .img1 {
-    background-image: url(/image/anchor.png);
+    background-image: url(https://andrey1303110.github.io/beetroot-css3/image/anchor.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .img2 {
-    background-image: url(/image/diamond.png);
+    background-image: url(https://andrey1303110.github.io/beetroot-css3/image/diamond.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .img3 {
-    background-image: url(/image/glasses.png);
+    background-image: url(https://andrey1303110.github.io/beetroot-css3/image/glasses.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .img4 {
-    background-image: url(/image/tv.png);
+    background-image: url(https://andrey1303110.github.io/beetroot-css3/image/tv.png);
     background-repeat: no-repeat;
     background-position: center;
 }
@@ -96,26 +96,26 @@ section:hover .text2 {
 
 
 .img1:hover {
-    background-image: url(/image/anchorw.png);
+    background-image: url(https://andrey1303110.github.io/beetroot-css3/image/anchorw.png);
     background-repeat: no-repeat;
     background-position: center;
     transition: all .0.1s ease-in;
 }
 
 .img2:hover {
-    background-image: url(/image/diamondw.png);
+    background-image: url(https://andrey1303110.github.io/beetroot-css3/image/diamondw.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .img3:hover {
-    background-image: url(/image/glassesw.png);
+    background-image: url(https://andrey1303110.github.io/beetroot-css3/image/glassesw.png);
     background-repeat: no-repeat;
     background-position: center;
 }
 
 .img4:hover {
-    background-image: url(/image/tvw.png);
+    background-image: url(https://andrey1303110.github.io/beetroot-css3/image/tvw.png);
     background-repeat: no-repeat;
     background-position: center;
 }
