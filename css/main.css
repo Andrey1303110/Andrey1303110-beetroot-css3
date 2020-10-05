@@ -82,25 +82,24 @@
 
 .text2 {
     color: #777777;
-    padding-left: 15px;
-    padding-right: 15px;
-    height: 80px;
-    margin: none;
-
+    margin: 50px, 15px, 15px, 40px;
+    height: 200px;
 }
 section:hover {
     background-color: rgba(14, 200, 203, 0.68);
     color: white;
 }
 
-.text2:hover {
+section:hover .text2 {
     color: white;
 }
+
 
 .img1:hover {
     background-image: url(/image/anchorw.png);
     background-repeat: no-repeat;
     background-position: center;
+    transition: all .0.1s ease-in;
 }
 
 .img2:hover {
