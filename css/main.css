@@ -2,7 +2,7 @@
     height: 840px;
     width: 940px;
     background-size: cover;
-    background-image: url(/image/bg.jpg), url(https://andrey1303110.github.io/beetroot-css3/image/bg.jpg);
+    background-image: url(/beetroot-csse/image/bg.jpg), url(https://andrey1303110.github.io/beetroot-css3/image/bg.jpg);
     background-repeat: no-repeat;
     margin: 0 auto;
 }
@@ -103,7 +103,7 @@ section:hover .text2 {
 }
 
 .img2:hover {
-    background-image: url(../image/diamond.png), url(https://andrey1303110.github.io/beetroot-css3/image/diamondw.png);
+    background-image: url(../image/diamondw.png), url(https://andrey1303110.github.io/beetroot-css3/image/diamondw.png);
     background-repeat: no-repeat;
     background-position: center;
 }
